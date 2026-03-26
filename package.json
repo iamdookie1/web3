@@ -1,0 +1,6 @@
+{
+  "name": "calc-api",
+  "version": "1.0.0",
+  "description": "Calculator API for BDScript !calc command",
+  "private": true
+}
